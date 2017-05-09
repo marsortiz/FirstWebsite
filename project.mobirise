@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -224,7 +224,35 @@
             "google": true,
             "twitter": true
           },
-          "text": "SHARE THIS PAGE!"
+          "text": "SHARE THIS PAGE!",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "24px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/marhoganize\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/ortiz0545\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-tumblr\" title=\"Tumblr\" target=\"_blank\" href=\"goneonalimb.tumblr.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-tumblr\"></i></a>  "
         }
       ]
     },

@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -20,4 +22,8 @@
 }
 #content5-9 .mbr-article {
   color: #fff;
+}
+#social-buttons1-d .mbr-header__text {
+  font-size: 24px;
+  font-family: 'Lora', serif;
 }
