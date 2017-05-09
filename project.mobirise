@@ -76,6 +76,11 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header4-2",
           "_params": {
             "parallax": true,
@@ -98,12 +103,7 @@
           },
           "title": "GONE ON A LIMB",
           "text": "Everyday student life",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
-          "_styles": {
-            "H1": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
         },
         {
           "_inherit": "msg-box3",
@@ -206,6 +206,13 @@
             "Theme"
           ],
           "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "24px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
           "_anchor": "social-buttons1-d",
           "_params": {
             "paddingTop": 3,
@@ -224,14 +231,7 @@
             "google": true,
             "twitter": true
           },
-          "text": "SHARE THIS PAGE!",
-          "_styles": {
-            ".mbr-header__text": {
-              "font-size": "24px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          }
+          "text": "SHARE THIS PAGE!"
         },
         {
           "_tags": [
